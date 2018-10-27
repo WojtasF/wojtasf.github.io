@@ -32,3 +32,7 @@ function scrollFunction() {
         $("#goUp").css("display", "none");
     }
 }
+
+$('.navbar-light .navbar-nav .nav-link').click(function(){
+  $('#navbarNav').collapse('hide');
+});
