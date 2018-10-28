@@ -36,3 +36,7 @@ function scrollFunction() {
 $('.navbar-light .navbar-nav .nav-link').click(function(){
   $('#navbarNav').collapse('hide');
 });
+
+$(window).on('load', function() {
+    $('.preloader').fadeOut('slow');
+ });
