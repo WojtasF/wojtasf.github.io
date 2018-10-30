@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-10-29T13:24:31+01:00</updated><id>/feed.xml</id><title type="html">My portfolio!</title><subtitle>Hi! My name is Wojciech Florczak and I want to become professional programmer. On this site you can look at my latest projects hosted directly from my GitHub repositories by GitHub Pages.</subtitle><entry><title type="html">My Portfolio</title><link href="/front-end/2018/10/14/my-portfolio.html" rel="alternate" type="text/html" title="My Portfolio" /><published>2018-10-14T00:00:00+02:00</published><updated>2018-10-14T00:00:00+02:00</updated><id>/front-end/2018/10/14/my-portfolio</id><content type="html" xml:base="/front-end/2018/10/14/my-portfolio.html">&lt;p class=&quot;test&quot;&gt;My first Front-End project is this portfolio site. Every project is hosted directly from my GitHub repository GitHub.com/WojtasF&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-10-30T13:04:59+01:00</updated><id>/feed.xml</id><title type="html">My portfolio!</title><subtitle>Hi! My name is Wojciech Florczak and I want to become professional programmer. On this site you can look at my latest projects hosted directly from my GitHub repositories by GitHub Pages.</subtitle><entry><title type="html">My Portfolio</title><link href="/front-end/2018/10/14/my-portfolio.html" rel="alternate" type="text/html" title="My Portfolio" /><published>2018-10-14T00:00:00+02:00</published><updated>2018-10-14T00:00:00+02:00</updated><id>/front-end/2018/10/14/my-portfolio</id><content type="html" xml:base="/front-end/2018/10/14/my-portfolio.html">&lt;p&gt;My first Front-End project is this portfolio site.
+&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -14,7 +15,8 @@
 &lt;p&gt;What I’ve learned:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;How CSS pre-compilers works - SASS;&lt;/li&gt;
-  &lt;li&gt;How static site generators works;&lt;/li&gt;
+  &lt;li&gt;How static site generators works - Jekyll;&lt;/li&gt;
+  &lt;li&gt;How version-control systems works - GitHub;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;What I’ve used to make this website:&lt;/p&gt;
@@ -24,6 +26,4 @@
   &lt;li&gt;SASS - CSS pre-compiler;&lt;/li&gt;
   &lt;li&gt;Markdown - markup language;&lt;/li&gt;
   &lt;li&gt;JQuery - JS Framework;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://wojciech-florczak.pl&quot;&gt;My Portfolio&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Front-End" /><summary type="html">My first Front-End project is this portfolio site. Every project is hosted directly from my GitHub repository GitHub.com/WojtasF</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/thumbs/portfolio.jpg" /></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="Front-End" /><summary type="html">My first Front-End project is this portfolio site.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/thumbs/portfolio.jpg" /></entry></feed>
